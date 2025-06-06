@@ -1,0 +1,26 @@
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Python bytecode/cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Power BI report files (optional – keep only if not sharing .pbix)
+*.pbix
+
+# Ignore system-specific temporary files
+.DS_Store
+Thumbs.db
+~$*
+
+# Ignore virtual environment folders (if any)
+env/
+venv/
+*.env
+
+# Ignore editor/IDE settings (optional)
+.vscode/
+.idea/
+
