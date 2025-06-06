@@ -1,11 +1,11 @@
 Amazon Sales Data Analysis Project
 
-Overview
+❀Overview
 This project explores an Amazon sales dataset to uncover business insights through data analysis and visualization. The dataset includes order-level information such as order date, shipping date, customer ID, category, product, location, quantity, sales, and profit.
 
 The goal is to analyze key sales and profitability metrics, identify top-performing products and regions, examine customer behavior, and predict future sales trends.
 
-Tools Used
+❀Tools Used
 Python (Pandas, Matplotlib, Seaborn, Statsmodels)
 
 Power BI (for interactive dashboard and geographic visualizations)
@@ -14,7 +14,8 @@ Jupyter Notebook
 
 Git & GitHub
 
-Key Business Questions Answered
+❀Key Business Questions Answered
+
 What is the highest selling category?
 
 Which month has the best sales performance?
@@ -37,7 +38,7 @@ How long does it take to ship orders by category and by state?
 
 Can we predict the next 6 months of sales using time series forecasting?
 
-Visualizations
+❀Visualizations
 Bar charts: Top categories, top cities, top customers
 
 Line chart: Monthly sales trend
@@ -56,8 +57,7 @@ This project includes an interactive Power BI dashboard with the following pages
 - **Cities Sale & Profit Comparison**
 - **Categories Sale & Profit**
 - **6-Month Sales Forecast**
-
-**Live Dashboard** → [Click to View in Power BI](https://app.powerbi.com/view?r=eyJrIjoiZjQw...)  
+🔗 **Live Dashboard** → [Click to View in Power BI](https://...)
 *(Opens in browser — no login required)*
 
 > **Forecast Insight**:  
@@ -65,7 +65,7 @@ This project includes an interactive Power BI dashboard with the following pages
 > Sales show a steady upward trend, indicating consistent demand and business stability.
 
 
-Key Insights
+❀Key Insights
 Home appliances and phones are among the top-selling categories.
 
 California generates the highest profit; Oregon and Arizona have high sales but negative profits.
@@ -97,7 +97,7 @@ amazon-sales-analysis/
 
 ---
 
-###  Next Steps
+❀###  Next Steps
 
 Further enhancements that could be implemented to expand this project:
 
