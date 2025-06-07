@@ -1,4 +1,12 @@
 Amazon Sales Data Analysis Project
+<p align="center">
+  <img src="./Visuals/dashboard_preview.png" alt="Power BI Dashboard Preview" width="800"/>
+</p>
+
+🔗 [👉 Click to View the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjQwZjBmNzYtZjE0OS00NDJhLTgwMzItNmM5NGJjOTcwYWYzIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)  
+*(Interactive — opens in browser, no login required)*
+
+---
 
 ❀Overview
 This project explores an Amazon sales dataset to uncover business insights through data analysis and visualization. The dataset includes order-level information such as order date, shipping date, customer ID, category, product, location, quantity, sales, and profit.
